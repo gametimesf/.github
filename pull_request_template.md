@@ -2,12 +2,18 @@ Hello, I would like to make Gametime a better place by contributing the followin
 
 ## Feature/bug description:
 
-## This is how I decided to implement/fix it:
+## This is how I decided to implement/fix it
 
-## JIRA link:
+## JIRA link
 
-## What can this break:
+## What can this break
 
-## How has this been tested:
+## How has this been tested
 
-## How will this change be monitored:
+## Observability
+
+Before opening a PR consider whether you have added sufficient observability, do you need to add any datadog additional metrics or spans?
+
+- [ ] Do your metrics follow the naming conventions?
+
+### How will this change be monitored
