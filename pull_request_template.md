@@ -1,7 +1,7 @@
 Hello, I would like to make Gametime a better place by contributing the following code:
 
 ## Observability:
-- [ ] Before opening a PR consider whether you have added sufficient observability, do you need to add any datadog additional metrics or spans?
+Before opening a PR consider whether you have added sufficient observability, do you need to add any datadog additional metrics or spans?
 
 - [ ] Do your metrics follow the [naming conventions](https://www.notion.so/gametime/DataDog-Custom-Metrics-Usage-Naming-63c6d77879f94d04abe8fb7e14d43978?pvs=4#dcee7c9196be4a948010137927fc9337)?
 
