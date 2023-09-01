@@ -16,7 +16,6 @@ Before opening a PR consider whether you have added sufficient observability, do
 
 - [ ] Do your metrics follow the naming conventions?
 
-- [ ] Have you added your metric to the Metric Notion page?
 
 ### How will this change be monitored
 
