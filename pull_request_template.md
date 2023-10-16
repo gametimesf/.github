@@ -6,7 +6,7 @@ Hello, I would like to make Gametime a better place by contributing the followin
 
 ## JIRA link
 
-## What can this break
+## What does this change affect? (What can this break?)
 
 ## How has this been tested
 
