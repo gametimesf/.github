@@ -7,6 +7,7 @@ Hello, I would like to make Gametime a better place by contributing the followin
 ## JIRA link
 
 ## What does this change affect? (What can this break?)
+Describe the critical path(s) affected as well as the related component and system functions.
 
 ## How has this been tested
 
