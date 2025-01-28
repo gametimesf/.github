@@ -1,14 +1,13 @@
-Hello, I would like to make Gametime a better place by contributing the following code:
+The following code makes an impact.
 
-## Feature/bug description
+## Purpose of Change
 
-## This is how I decided to implement/fix it
+## Change Overview
 
-## What does this change affect? (What can this break?)
-Describe the critical path(s) affected as well as the related component and system functions.
+## Affected Functionality
 
-## How has this been tested
+## Testing
 
-## How is this change observable?
+## Observability
 
-### How will this change be monitored
+## Rollout
