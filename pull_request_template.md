@@ -2,7 +2,7 @@ The following code makes an impact.
 
 ## Purpose of Change
 
-## Ticket Link
+### Ticket Link
 
 ## Change Overview
 
